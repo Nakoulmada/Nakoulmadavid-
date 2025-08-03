@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nakoulma David 👋</h1>
 
 <p align="center">
-  🌍 Côte d'Ivoire | 🌐 Remote-friendly | 🎯 Administrative & Educational Consultant  
+  🌍 Côte d'Ivoire | 🌐 Remote Work | 🎯 Remote Administrative Assistant & Educational Consultant  
 </p>
 
 ---
