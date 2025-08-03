@@ -13,16 +13,16 @@
 - Student support and progress tracking  
 - Organizing trainings and academic workshops
 
-🧾 Administrative Assistant @ We Are Artistic (remote, Washington DC)
+🧾 Administrative Assistant - We Are Artistic (remote, Washington DC)
 - Handling admin tasks via Odoo
 - Organizing meetings, documents, and internal communication
 
-🧑‍🏫 Online English Vocational Teacher @ GoGlobal NGO Ukraine
+🧑‍🏫 Online English Vocational Teacher - GoGlobal NGO Ukraine
 - Facilitated English-speaking sessions for Ukrainian students
 - Designed creative exercises around hobbies and real-life topics
 - Promoted learner engagement through international cultural exchange
 
-🌍 Intern @ EcoServants Project (Remote)
+🌍 Intern - EcoServants Project (Remote)
 - Part of the Google Analytics Blog Topic Research team
 - Analyzing web traffic and user behavior to propose SEO content ideas
 - Delivering reports and recommendations to help optimize engagement
