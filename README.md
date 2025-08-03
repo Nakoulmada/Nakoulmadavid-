@@ -38,7 +38,7 @@
 ## 🧰 Skills
 
 - **Languages**: French (C1), English (C1)
-- **Tools**: Microsoft Office (Excel, Word), Odoo, Slack, Google Workspace
+- **Tools**: Microsoft Office (Excel, Word, PowerPoint), Odoo, Slack, Google Workspace
 - **Soft Skills**: Communication, Team coordination, Problem solving, Autonomy
 - **Others**: Translation (EN ⇄ FR), Educational support, Content creation, SEO analysis
 
@@ -67,9 +67,9 @@
 
 📄 [View my CV (PDF)](https://example.com/david_cv.pdf)  
 🔗 [LinkedIn](https://www.linkedin.com/in/david-nakoulma-b41096322)  
-📬 Email: nakoulmadavid11@gmail.com  
+📬 Email: davidnakoulma73@gmail.com 
 🌍 GitHub: [@nakoulmadavid](https://github.com/nakoulmadavid)  
-📞 Phone: +225 0546489735
+📞 Phone: (+225) 0546489735
 
 ---
 
